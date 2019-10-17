@@ -12,11 +12,12 @@ The goal of the first week's assignment is to let you dive into the details of o
 4. free RTOS
 5. Chrome OS
 
-The system you have to choose depends on your student id (*id*) and the function *f* which maps one of the operating systems above to your student id is *f(id) = id % 6*.
+The system you have to choose depends on your student id (*id* ("Katalognummer" in German)) and the function *f* which maps one of the operating systems above to your student id is *f(id) = id % 6*.
 
 ### Required Tasks
-1. Give a brief description of the OS which maps to your student id.
-2. Look for special features or interesting details. If you don’t understand: write it down and discuss it in the next class.
+1. Research the OS which maps to your student id in the Web.
+2. Look for special features or interesting details. Concentrate on technical stuff (history / inventors / etc. only very brief). If you stumble over things you don’t understand: write it down and discuss it in the next class.
+3. Create a document with the name of your operating system and write down your research results in a Markdown file.
 3. Add the report to this repository.
 
 ### Material
